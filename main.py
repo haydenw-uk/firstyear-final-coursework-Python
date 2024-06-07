@@ -1,5 +1,5 @@
 # Copyright 2024 - Hayden Williams
-# End of Semester Coursework - the Oxford Brookes University
+# End of Year Final Coursework - the Oxford Brookes University
 
 import random
 import time
